@@ -28,8 +28,8 @@ Write termination : LF (\n)
 
 **Visa Strings**
 >
-Serial port : 'ASRL/dev/ttyACM<X>::INSTR'  
-Ethernet 'TCPIP0::<IP>::5025::SOCKET'
+Serial port : 'ASRL/dev/ttyACM<X\>::INSTR'  
+Ethernet 'TCPIP0::<IP\>::5025::SOCKET'
 
 ***IDN? - Identification query**
 >
